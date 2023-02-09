@@ -1,0 +1,41 @@
+
+{
+    "Ficha_de_futbolista": [
+            {
+            "Nombres": "Luis Andres",
+            "Apellidos":"Moreno Pincay",
+            "Fecha_de_Nacimiento":"20-02-1994",
+            "Edad ": 28,
+            "País de Nacimiento ":"Ecuador",
+            "Ciudad":"portoviejo",
+            "Posición":"Portero",
+            "Grupo_Sanguíneo":"a+",
+            "Nacionalidad":"Ecuatoriano"
+        },
+        {
+            "Nombres": "Leonel Vicente",
+            "Apellidos":"Moereira alcidez",
+            "Fecha_de_Nacimiento":"15-09-2002",
+            "Edad ": 20,
+            "País de Nacimiento ":"Ecuador",
+            "Ciudad":"24 de Mayo",
+            "Posición": ["delantero",
+                          "Medio campista"],
+            "Grupo_Sanguíneo":"o+",
+            "Nacionalidad":"Ecuatoriano"
+        },
+        {
+            "Nombres": "Keny Jeampier",
+            "Apellidos":"Saltos Zambrano",
+            "Fecha_de_Nacimiento":"04-02-2002",
+            "Edad ": 20,
+            "País de Nacimiento ":"Ecuador",
+            "Ciudad":"RioChico",
+            "Posición":"Defanza",
+            "Grupo_Sanguíneo":"o+",
+            "Nacionalidad":"Ecuatoriano"
+
+        }
+    ]
+    
+}
